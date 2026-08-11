@@ -1,6 +1,6 @@
 # Hi, I'm Noah Danao 👋
 
-### Computer Science Student @ UIC | VP Internal @ ΘΛΒ
+### Computer Science Student @ UIC | President @ ΘΛΒ
 
 I’m a software engineering student passionate about bridging the gap between technical implementation and organizational leadership. I enjoy working with C++, Python, and designing clean, minimalist user experiences.
 

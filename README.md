@@ -14,7 +14,7 @@ I’m a software engineering student passionate about bridging the gap between t
 
 ### 🤝 Connect with Me!
 - LinkedIn: www.linkedin.com/in/noah-danao 
-- 📍 Based in Chicago, IL## Hi there 👋
+- 📍 Based in Chicago, IL
 
 <!--
 **noahdanao/noahdanao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

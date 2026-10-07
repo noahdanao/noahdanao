@@ -7,8 +7,8 @@ I’m a software engineering student passionate about bridging the gap between t
 ---
 
 ### 💻 Tech Stack & Tools
-- **Languages:** C++, Python, Assembly (x86-64), Java
-- **Tools:** GDB, Git, Notion, Figma
+- **Languages:** C++, Python, Assembly (x86-64), Java, SQL
+- **Tools:** GDB, Git, Notion
 - **Focus:** Systems Programming, Security, & Organizational Management
 
 ### 📊 Currently Working On

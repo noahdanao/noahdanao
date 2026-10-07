@@ -11,9 +11,6 @@ I’m a software engineering student passionate about bridging the gap between t
 - **Tools:** GDB, Git, Notion
 - **Focus:** Systems Programming, Security, & Organizational Management
 
-### 📊 Currently Working On
-- 🎵 **Lyrics-Search-Engine:** A C++ implementation for efficient lyric data processing.
-- 🏛 **Fraternity Operations:** Modernizing internal budgeting and recruitment workflows via Notion.
 
 ### 🤝 Connect with Me!
 - LinkedIn: www.linkedin.com/in/noah-danao 
